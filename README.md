@@ -1,6 +1,6 @@
 # wasm-go
 
-wasm-go is a tutorial repository, demonstrating how to compile a WebAssembly module from Go. The publication for this repository can be found [here](https://medium.com/@pascal.allen88/how-to-compile-a-webassembly-module-from-go-a9ed5f831582).
+wasm-go is a module that is designed to compile a WebAssembly module from Go. There is a publication for this repository which can be found [here](https://medium.com/@pascal.allen88/how-to-compile-a-webassembly-module-from-go-a9ed5f831582).
 
 ## Prerequisites
 
